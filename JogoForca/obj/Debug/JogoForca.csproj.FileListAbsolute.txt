@@ -4,3 +4,4 @@ C:\Users\jose.ejsbrolini\source\repos\JogoForca\JogoForca\bin\Debug\Roda Roda Se
 C:\Users\jose.ejsbrolini\source\repos\JogoForca\JogoForca\bin\Debug\Roda Roda Senac Dev.pdb
 C:\Users\jose.ejsbrolini\source\repos\JogoForca\JogoForca\obj\Debug\Roda Roda Senac Dev.exe
 C:\Users\jose.ejsbrolini\source\repos\JogoForca\JogoForca\obj\Debug\Roda Roda Senac Dev.pdb
+C:\Users\jose.ejsbrolini\source\repos\JogoForca\JogoForca\obj\Debug\JogoForca.csprojAssemblyReference.cache
