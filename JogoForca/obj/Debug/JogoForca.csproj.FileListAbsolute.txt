@@ -1,0 +1,6 @@
+C:\Users\jose.ejsbrolini\source\repos\JogoForca\JogoForca\obj\Debug\JogoForca.csproj.CoreCompileInputs.cache
+C:\Users\jose.ejsbrolini\source\repos\JogoForca\JogoForca\bin\Debug\Roda Roda Senac Dev.exe.config
+C:\Users\jose.ejsbrolini\source\repos\JogoForca\JogoForca\bin\Debug\Roda Roda Senac Dev.exe
+C:\Users\jose.ejsbrolini\source\repos\JogoForca\JogoForca\bin\Debug\Roda Roda Senac Dev.pdb
+C:\Users\jose.ejsbrolini\source\repos\JogoForca\JogoForca\obj\Debug\Roda Roda Senac Dev.exe
+C:\Users\jose.ejsbrolini\source\repos\JogoForca\JogoForca\obj\Debug\Roda Roda Senac Dev.pdb
